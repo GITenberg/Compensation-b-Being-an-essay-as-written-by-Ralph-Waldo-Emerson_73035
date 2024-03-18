@@ -1,5 +1,8 @@
 _repo: Compensation-b-Being-an-essay-as-written-by-Ralph-Waldo-Emerson_73035
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73035-h/images/cover.jpg
 creator:
   author:
     agent_name: Emerson, Ralph Waldo
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1071
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73035#Compensation-b-Being-an-essay-as-written-by-Ralph-Waldo-Emerson
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
